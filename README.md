@@ -1,4 +1,4 @@
-### Why Hello There Stranger?
+### Why Hello There?
 
 <!--
 **Raymond2200/Raymond2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
