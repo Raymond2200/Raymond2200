@@ -1,8 +1,11 @@
-## Why Hello There?
+# Why Hello There?
 
+## [Website](https://www.raymondcasgrain.com/)
+## [LinkedIn](https://www.linkedin.com/in/raymondcasgrain/)
 
 ### Who am I?
 I am a full stack developer who is passionate about constant learning and challenging myself.
+
 
 <!--
 **Raymond2200/Raymond2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
