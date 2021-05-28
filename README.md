@@ -1,7 +1,7 @@
 # Why Hello There?
 
-## [Website](https://www.raymondcasgrain.com/)
-## [LinkedIn](https://www.linkedin.com/in/raymondcasgrain/)
+### [Website](https://www.raymondcasgrain.com/)
+### [LinkedIn](https://www.linkedin.com/in/raymondcasgrain/)
 
 ### Who am I?
 I am a full stack developer who is passionate about constant learning and challenging myself.
